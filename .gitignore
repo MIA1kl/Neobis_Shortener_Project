@@ -6,5 +6,5 @@ __pycache__
 myvenv
 /static
 .DS_Store
-/secret_key.txt
-/db_password.txt 
+secret_key.txt
+db_password.txt 
